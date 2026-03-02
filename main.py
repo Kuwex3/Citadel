@@ -15,3 +15,4 @@ async def get_file(name: str):
 @app.post("/send_file")
 async def send_file(file: UploadFile):
     data = file.file.read().decode(encoding="UTF-8")
+    print(data)
