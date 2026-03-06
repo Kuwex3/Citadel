@@ -1,2 +1,2 @@
-# Project Citadel
+# Citadel
 ## Share your files!
